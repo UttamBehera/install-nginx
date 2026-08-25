@@ -1,6 +1,9 @@
 #This file is to guide you how to install nginx
 
 
+#adding some line
+
+
 
 #Step to install it
 
